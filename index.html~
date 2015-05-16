@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Calculador numeros primos</title>
+			<script src="jquery-1.11.0.min.js"></script>
+ 	</head>
+ 	<body>
+  		<form id="formulario" action="" method="POST">
+  			Numero: <input type="text" name="input">
+  		</form>
+  		<button id="boton">Buscar</button>
+  		<p>Los numeros primos son: <span id="result"></span></p>
+
+		<script src="main.js"></script>
+	</body>
+</html>
+
